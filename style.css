@@ -1,0 +1,35 @@
+*{
+    margin: 0%;
+    padding: 0%;
+
+}
+html{
+    font-family: "Poppins", sans-serif;
+
+}
+
+li{
+    display: inline;
+    margin-top: 5px;
+    margin-left: 15px;
+    margin-right: 15px;
+   
+}
+
+li:hover{
+    color: rgb(245, 127, 127);
+}
+
+div{
+    padding-top: 15px ; 
+    /* padding-bottom: 6px ;  */
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 1.5rem;
+}
+
+ul{
+    text-align: right ;
+  
+
+}
